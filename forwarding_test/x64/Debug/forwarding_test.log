@@ -1,0 +1,5 @@
+﻿  chksum.c
+  main.c
+  코드를 생성하고 있습니다...
+C:\Users\user\Desktop\forwarding\forwarding_test\main.c(34,21): warning C4133: '함수': 'const char *'과(와) 'PCWSTR' 사이의 형식이 호환되지 않습니다.
+  forwarding_test.vcxproj -> C:\Users\user\Desktop\forwarding\x64\Debug\forwarding_test.exe
